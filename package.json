@@ -1,7 +1,7 @@
 {
   "name": "linter-gettext",
   "main": "./lib/linter-gettext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Linter for gettext files",
   "keywords": [
     "gettext"
