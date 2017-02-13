@@ -1,0 +1,7 @@
+{
+  "globals": {
+    "atom": true
+  },
+  "esversion": 6,
+  "indent": 2
+}
