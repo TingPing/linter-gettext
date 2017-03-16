@@ -13,11 +13,11 @@
   },
   "dependencies": {
     "atom-linter": "^8.0.0",
-    "atom-package-deps": "^4.0.1",
-    "language-gettext": "*"
+    "atom-package-deps": "^4.0.1"
   },
   "package-deps": [
-    "linter"
+    "linter",
+    "language-gettext"
   ],
   "providedServices": {
     "linter": {
